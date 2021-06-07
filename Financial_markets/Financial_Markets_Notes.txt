@@ -11,9 +11,170 @@ Different Types of Banks:-
 
 Terms:-
   -Mergers & Acquisitions (M&A) - The merging of two companies or acquisitions of a company by another.
+    -Hostile Takeover - Forced merger/acquisition (Predator company vs Prey company)
   -Angel Investor - Early investor in a private company that buys varying slices of a company in the hopes it will grow and become profitable and generate a RoI.
-  
+  -Price to earnings Ratio (P-E/P-B) - current share price/per-share earnings - Ratio measuring current share price vs its per share earnings.
+  -Initial Public Offering (IPO) - Offering shares for a private company for purchase/listing on the markets changing it status from private to publicly traded.
+  -Securitization - Merge the assets of the private company to be sold off as shares listed on an exchange.
 
 Public vs Private:-
   Public - The company is listed on a stock exchange where anyone is able to buy shares, the executives are beholden to the shareholders.
   Private - The company is owned privately by an individual or group of individuals.
+
+Valuation of Companies:-
+  -Book Value - Assets-Liabilities/Debts.
+  -Comparison - Compare with similar already valued companies.
+  -IPO - Let the markets decide the value by offering shares of the company on exchanges.
+
+Investment Bank Services:
+  - New Issues - IPOs and Bonds
+  - Company Restructuring
+  - Mergers and Acquisitions (M&A)
+  - Research and Advisory - Researchers and Analysts to perform fundamental analysis and advisory roles.
+  - Prop Trading - company trades stocks, bonds, currencies or commodities using the firms own money to make a profit for itself.
+  - Financing
+  - Security Issuance Underwriting
+  - Brokerage and Market Making.
+
+Retail Banking Services:
+  -Current Accounts
+  -Savings Accounts
+  -Overdrafts
+  -Telephone Banking
+  -Mortgages
+  -Personal Loans
+  -Payments
+  -Branches
+  -Debit Cards
+  -Checks
+  -Money Transfers
+  -Online Banking
+
+The Bank (Basics):-
+  -Deposit - Leaving a sum of money with the bank.
+  -Loan - A sum of money lent from the bank to a customer.
+  -3/6/3 Rule - Interest of 3% for deposits, 6% for loans, 3% reinvested in markets.
+  -Fractional Reserve - Banks assume that depositors will only want access to a fraction of their deposits at a time (10%) - the rest can be invested to generate profit.
+
+Interest Rates:-
+  -Interest - Fee for borrowing money.
+  -Interest rate - Percentage rate of the loan that is charged as interest.
+  -APR - Annual percentage rate of interest.
+  -AER - Annual equivalent rate of interest.
+
+Evolution of Banking:-
+  -Modern Banking:
+    -Money Market Funding:
+      -Less reliance on depositors.
+      -Borrowing on money market.
+      -Inter-bank Borrowing.
+    -Securitization - Packaging and reselling of debt:
+      -New derivative products
+      -Proprietary Trading
+    -OTD - Originate to Distribute:
+      -Move away from issuing products to retain them.
+      -Bank avoids bearing risk of all new product issuance.
+
+2008 Financial Crisis:
+  Factors:
+    -Focus on short time profits.
+    -Proprietary interest over clients.
+    -Return for risk taking.
+    -Inadequate risk assessment.
+    -Junk debt traded in securities.
+    -Inadequate capital reserves.
+  Outcome:
+    -New regulatory bodies.
+    -Ring Fencing.
+    -Effect risk assessments.
+    -Transparent Markets.
+    -Stress resilient capital reserves.
+    -Ethics and culture.
+
+NINJA Loans - No Income, No Job, No Assets
+
+Banks - Monetary Policy:-
+  -Retail banks can set their own rates for lending and borrowing money to their clients.
+    The rate that they lend and borrow between each other is usually set (recommendation) by the central bank.
+  -LIBOR - Benchmark interest rate at which major global banks lend to one another in the international interbank market
+    for short-term loans. Rate is calculated and published each day by the Intercontinental Exchange (ICE). LIBOR
+    is an average of lending and borrowing rates between banks. (London InterBank Offered Rate)
+
+Central Banks - Interest and Inflation:-
+  -Interest Rates - The percentage of principal charged by the lender for use of its money.
+  -Inflation - A quantitative measure of the rate at which the average price level of selected goods and services in an economy
+    increases over time.  It indicates a decrease in the purchasing power of a nation's currency.
+    The central banks will make changes to interest rates to have an impact on inflation with a target in mind.
+
+Corporate Banking:-
+  -Banking for different size business offering retail banking services in addition to:
+    -Multi-Bank syndicated Loans - Larger loans supported by a group of banks to spread the risk and raise capital. Usually
+      available at short notice.
+    -Foreign exchange facilities - Providing competitive foreign exchange facilities including help with balance sheet analysis
+      and hedging solutions and managing exposure and risk to FX movements.
+    -Cash Management Services - Movement of money between various accounts as required.
+    -Letters of credit and guarantees - Assurance from the bank that an exporter will be paid after shipping goods.
+    -Lines of credit - Business form of an overdraft but not set up as a negative balance on your account - the line of credit
+      is set up on another account.
+
+Private banking and Wealth Management:-
+  -Banking for high networth individuals worth more than ~1M (dependent on the institution) in liquid assets.
+  -Individuals:
+    -Entrepreneurs
+    -executives
+    -Landowners
+    -Celebrities
+    -Royalty
+  They also offer:
+    -Advice and Management
+    -Tax Planning
+    -Personal relationship
+    -Investment Planning
+    -Wealth Structuring
+    -Discretion
+
+Investment Banking Clients:
+  -Professional Clients:-
+    -Assumed to be more informed investors and as such, are able to take more financial risks than other types of investor.
+    -Have experience, knowledge and expertise to make their own investment decisions and risk assessments.
+    -Covered by fewer regulatory guarantees.
+  -Institutional Investors:-
+    -Investment firms, pension funds, insurance firms, commodity dealers, hedge funds, asset managers, national and regional
+      government, sovereigns.
+    -International and supranational institutions: World Bank, IMF, Central Banks.
+
+Research and Advisory:-
+  - Research and advisory is often offered to clients free of charge to gain good will and encourage them to use other fee-based services.
+  - Buy/Sell/Hold recommendations:
+    -Stock ratings, portfolio balancing
+  - Financial trends and Forecasting:
+    -Market trends and consumer trends.
+  - Politics and Macro Economics:
+    -Information on major events and news, supply and demand.
+  - Market Analysis:
+    -Technical Analysis and market risk models.
+
+Financing and M&A:-
+  - Financing - Used when a client needs to raise capital:
+    -Advice
+    -Investor Introductions
+    -Syndicate Loans
+    -Bond and Securities Issuance
+    -Project Financing
+  - Mergers and Acquisitions - very lucrative part of Investment Banking.
+    -Make money for shareholders
+    -Economies of scale especially in areas such as research and development.
+    -Gaining a larger market share
+    -Better competition against other firms.
+
+Capital Markets:-
+  -Investment Banks facilitate the operation of the capital markets alongside exchanges, brokers, interdealer brokers and
+    market data providers.
+  - Markets have generally moved on from open out-cry trading, which has been replaced by electronic trading.
+  - Markets are split into primary and Secondary:-
+    -Primary Market - The market that raises medium and long term financing for the issuers of share and bond securities.
+      -New security issuance
+      -New Bonds
+      -New shares
+      -IPOs
+    -Secondary Market - Trading, buying and selling of securities.
