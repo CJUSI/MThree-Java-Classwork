@@ -105,6 +105,14 @@ Central Banks - Interest and Inflation:-
   -Inflation - A quantitative measure of the rate at which the average price level of selected goods and services in an economy
     increases over time.  It indicates a decrease in the purchasing power of a nation's currency.
     The central banks will make changes to interest rates to have an impact on inflation with a target in mind.
+  -Regulatory Role
+  -Set Monetary Policy
+  -Set Key Interest Rates
+  -Adjust Money Supply
+  -Attempt to contain Inflation
+  -Maximise employment
+  -Research, reports and forecasting.
+
 
 Corporate Banking:-
   -Banking for different size business offering retail banking services in addition to:
