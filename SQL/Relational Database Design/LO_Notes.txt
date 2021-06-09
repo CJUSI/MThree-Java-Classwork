@@ -1,0 +1,62 @@
+Course Objectives:
+  -Describe the characteristics of a relational database.
+  -Explain the purposes of normalization, including reasons for denormalizing a database.
+  -Read and create an ERD that represents a relational database.
+  -Normalize a database to third normal form.
+  -Use SQL to perform CRUD operations on a dataset, including creating new data, retrieving existing data, updating existing data, and deleting data, using a variety of parameters.
+  -Use SQL to create a database based on an existing ERD, including the use of appropriate data types for different kinds of data.
+  -Use SQL to add data to a database from an existing dataset.
+  -Use SQL to perform calculations on data in a database.
+  -Create views and subqueries.
+  -Discuss data optimization techniques for relational databases.
+
+
+--What is a Database--
+  -Give examples of commonly-used databases.
+  -Distinguish between data and information.
+  -Compare relational databases with non-relational databases.
+  -Explain the relationship between a database and a database management system (DBMS).
+  -Define components of a relational database.
+
+Database:-
+  -Backend System architecture to allow a developer to store data externally (server) to be accessed from multiple frontend sources.
+  -Usually not accessible by the user directly.
+  -Structured representation of data that can be read and written from.
+
+Database Uses:-
+  -Computer Games
+  -Learning Management Systems
+  -Smartphones and applications
+  -Healthcare systems
+  -Schools and University Systems
+
+Data vs Information:-
+  - Data = Raw individual facts - often meaningless without context.
+  - Information = Processed data - with context, logically grouped and analysed according to requirements or use case.
+
+Structured vs Unstructured databases:-
+  - Structured = Data is organised in a specific pattern, controls what data is available, accessible and stored.
+    The type of data stored is usually limited to preserve and improve data integrity (reliability and accuracy).
+    Mostly used with predictable data such as bank accounts, driving licences etc.
+  - Unstructured = Data contains some structure but without strict controls. Often faster than structured databases but
+    data integrity is compromised by duplicate or redundant data.  Used mostly with unpredictable data, such as social
+    media posts, reviews and other user generated content.
+
+Database vs. DBMS (+Relational DBMS):-
+  - DBMS = Software system that manages multiple databases.  Can execute commands, provide security, network access
+    and admin tools for DB Administrators (DBAs) to work with DB files.
+  - RDBMS Options:
+    -MySQL
+    -PostgreSQL
+    -Microsoft SQL Server
+    -Oracle Databse
+    -DB2
+  - Choice of DBMS determines some factors of how the data is organised but they mostly do the same thing.
+
+Relational Database Concepts:-
+  - Created with the goal of reducing duplicate data and making it easier to retrieve and manage specific data.
+  - Highly Structured organised into tables (relations) where each table represents a logical group of data.
+  - Row = Horizontal layer of cells holding facts about 1 discrete thing - known as a record (tuple). 
+  - Column = vertical strip of cells holding the same type of data but each fact is for a different thing/state.
+    Also called, field, attribute, of one data type/size/shape.
+  - Cell = Intersection of row and column, holds one fact about one thing - a single piece of data.

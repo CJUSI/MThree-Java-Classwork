@@ -185,4 +185,65 @@ Capital Markets:-
       -New Bonds
       -New shares
       -IPOs
-    -Secondary Market - Trading, buying and selling of securities.
+    -Secondary Market:-
+      -Trading
+      -Buying and selling of securities.
+      -Stock Brokers
+      -Market Makers
+  -Financial Markets:
+    -Money Markets:
+      -Short term debt (<1Year)
+    -Capital Markets:
+      -Long term debt/Equity
+        -Bonds (Debt)
+        -Equity (Shares)
+
+
+...
+
+Investment Banking: Risks - Diversification:-
+  -Diversification - A risk management strategy that mixes investments within a portfolio, limiting the exposure to one asset class.
+  -All investments involve some risk:
+    -Financial and reputational Damage.
+    -Operational Risk
+      -System, people and process failures.
+    -Market Risk:-
+      -Loss due to market volatility.
+    -Credit Risk - Defaults leading to financial loss.
+    -Strategic Risk
+    -Liquidity Risk:
+      -Difficult assets
+      -Low liquidity in stocks, spread (bid/ask) very high (more likely with smaller cap companies).
+
+Tax Deference:-
+  -Allows you to withdraw cash when you no longer have an income due to retirement.
+  -Extraction of funds can be done to avoid thresholds set for normal incomes.
+  -ISA, S+S ISA, Lifetime/Help to buy ISA
+
+Market Risk:-
+  -Commodity Prices
+  -Interest Rates fluctuating
+  -FX rates fluctuating
+  -Stock Prices fluctuating
+  -Prices rise and fall due to market sentiment.
+  -There is a risk that movements in prices lead to losses.
+    -Hedge to mitigate risk
+      -Diversification
+      -Stop Losses
+      -Low yield low risk investments
+      -Reduce exposure to volatile industries
+
+
+Investment Bank Structure:-
+  -Front office:
+    -Client facing - interact with clients; build relationships.
+    -Revenue Generating - Sell research, advise, brokerage.
+  -Middle Office:
+    -Support - Support front office functions.
+    -Validation - Verifying front office transactions.
+  -Back Office:
+    -Settlement - Daily trades are netted/paid and received.
+    -Custody - register new product owners.
+    -Regulatory Reporting.
+    -Accounting - Financial Reporting.
+    -Development and research - Create analysis and system software for the operation of the bank.
