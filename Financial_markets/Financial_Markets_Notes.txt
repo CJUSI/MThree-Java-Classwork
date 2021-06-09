@@ -176,27 +176,27 @@ Financing and M&A:-
     -Better competition against other firms.
 
 Capital Markets:-
-  -Investment Banks facilitate the operation of the capital markets alongside exchanges, brokers, interdealer brokers and
-    market data providers.
-  - Markets have generally moved on from open out-cry trading, which has been replaced by electronic trading.
-  - Markets are split into primary and Secondary:-
-    -Primary Market - The market that raises medium and long term financing for the issuers of share and bond securities.
-      -New security issuance
-      -New Bonds
-      -New shares
-      -IPOs
-    -Secondary Market:-
-      -Trading
-      -Buying and selling of securities.
-      -Stock Brokers
-      -Market Makers
   -Financial Markets:
     -Money Markets:
       -Short term debt (<1Year)
     -Capital Markets:
-      -Long term debt/Equity
-        -Bonds (Debt)
-        -Equity (Shares)
+      -Investment Banks facilitate the operation of the capital markets alongside exchanges, brokers, interdealer brokers and
+        market data providers.
+      - Markets have generally moved on from open out-cry trading, which has been replaced by electronic trading.
+      - Markets are split into primary and Secondary:-
+        -Primary Market - The market that raises medium and long term financing for the issuers of share and bond securities.
+          -New security issuance
+          -New Bonds
+          -New shares
+          -IPOs
+        -Secondary Market:-
+          -Trading
+          -Buying and selling of securities.
+          -Stock Brokers
+          -Market Makers
+        -Long term debt/Equity
+          -Bonds (Debt)
+          -Equity (Shares)
 
 
 ...
@@ -247,3 +247,108 @@ Investment Bank Structure:-
     -Regulatory Reporting.
     -Accounting - Financial Reporting.
     -Development and research - Create analysis and system software for the operation of the bank.
+  -Cursory business areas:
+    -Some areas of business operations do not fall into the categories such as HR and compliance:
+      -Avoids insider trading - material nonpublic organisation
+
+The 24 Hour Banking Day:
+  - Depending on the business area the bank applications could be being used through 24 hours
+    and potentially 7 days a week (Online Banks) - Follow the sun.
+  -Market Opening Times:-
+    -US Market Open - 14:30 GMT
+    -London/Euro Markets Open - 8:00 GMT
+    -HK Markets Open - 1:30 GMT
+    -Tokyo Market Open - 00:00 GMT
+      -Opportunities available 24 hours using different continental markets.
+
+Front Office Trading:-
+  -Front office trading can be divided into proprietary trading, brokerage and research areas.
+   There are usually rules around what interactions these areas can have and they are generally separated by Chinese Walls.
+    -Chinese Walls - Information barrier between departments to prevent the exchange of information and prevent conflicts of
+     interest.
+    -Buy Side - Prop trading occurs when a trader trades stocks, bonds, currencies, commodities, derivatives or any other
+     financial instruments with the firm's own money (Nostro Account).
+    -Sell Side - The sell side is involved in creation promotion and sale of stocks, bonds, fx and other financial instruments.
+     Investment bankers serve as intermediaries between security issuers and investing public and the market makers who provide
+     liquidity in the market.
+
+Funds:-
+  -A pool of money allocated for a specific purpose and usually professionally managed.
+    -Hedge Fund
+      -Pooled money by High net worth individuals for the purpose of investing and using financial instruments to make profit.
+    -Index Fund:
+      -Tracks a specific set of underlying investments, collected and passively maintained. Often tracks FTSE, DOW etc and other
+       commodities.
+    -Trust Fund
+    -Mutual Funds/Unit Trusts (UK)
+    -Pension Funds
+      -Employees and corporations contribute (often matched with limits)
+      -401k
+      -ROTH IRA
+      -Workplace Pension (UK)
+    -Sovereign wealth Fund:
+      -State owned investment fund that invests in real and financial assets such as stocks, bonds, real estate, precious metals.
+      -Can also invest in private equity funds or hedge funds.
+      -Oil rich countries often use this method to ensure they have wealth when oil becomes less important. (Norway, China, UAE, USA, AU).]
+      -Often invest in social and philanthropic causes.
+    -Private Equity Fund:
+      -Collective investment scheme to invest away from public markets and to acquire equity in private companies and securities.
+      -Provided for the very wealthy.
+      -Set minimum investment.
+      -Requires KYC for customer.
+      -Attempt to gain control of a private or public firm, often in distress.
+      -Attempt to reverse downtrend in companies.
+      -Long term time horizon (3-10 years).
+      -Attempting to provide value and fix broken companies, via restructuring, refocusing or cutting costs etc.
+    -International Monetary Fund
+    -Insurance Funds
+    -Exchange Traded Fund (ETF)
+    -Venture Capitalists:
+      -Interested in high risk start ups.
+      -Attempt to invest early in a fledgling company or startup.
+      -Invest in ideas and growth.
+      -Looking for risky exponential returns.
+    -Real Estate Investment Fund:
+      -Invest and manage real estate and real estate company securities.
+
+
+Open vs Closed ended Funds:-
+  -Open Ended Funds - collective investment scheme that can issue and redeem shares at any time.
+    -Often buy from the fund itself rather than from other existing shareholders.
+  -Closed Ended Funds - Collective investment model or portfolio of pooled
+   assets that raises a fixed amount of capital through an initial public offering (IPO) and then
+   lists shares for trade on a stock exchange. Other names for a closed-end fund include the "closed-end investment"
+   and "closed-end mutual fund."
+
+Market Participants:-
+  -Sellers & Buyers (investors and lenders).
+  -Brokers.
+  -Financial Institutions/Organisations (Financial Intermediaries).
+  -Governments - regulatory and as buyers, sellers and loanees.
+  -Commercial Buyers - Corporations.
+
+Products:-
+  -Financial Products:-
+    -Stocks and shares (equity).
+    -Securities.
+    -Options.
+    -Shorts.
+    -'X' funds.
+
+
+Asset Classes:-
+  -3 Main Types:-
+    -Equity (Stocks)
+    -Fixed Income (Bonds - Corporate, Government, Municipal Bonds, Agency(US)) - OTC (Over The Counter)
+    -Cash, Money Markets and equivalents
+  -Alternatives:
+    -Short term Debt Products:
+      -Doesn't have to be regulated and are cheaper to provide.
+    -Real Estate
+    -Cryptocurrency
+    -Art
+    -Commodities
+    -Derivatives (Swaps, Puts, Options)
+    -Futures
+    -Currencies (FX)
+    -Debt Securities
