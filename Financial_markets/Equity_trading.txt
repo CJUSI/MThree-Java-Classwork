@@ -1,0 +1,37 @@
+--Equity Trading--
+
+Equity Trading:-
+  -Company Equity and Shareholders.
+  -Private Company --> IPO --> Public Company
+    Private Company:
+      -Company operates privately.
+      -Company equity divided between shareholders.
+    IPO - Initial Public Offering:-
+      -First sale of shares to the public.
+      -Shares trade on a stock exchange.
+      -New rules and regulations.
+      -Investment bank assists in securitization of shares.
+        -Sold on primary market and then traded on stock exchange.
+    Public Company:
+      -Company shares traded publicly.
+      -Company equity divided between new shareholders.
+
+Alternative Exchanges:-
+  -AIM
+  -OTCBB
+
+Equity Securities - Market Cap:-
+  -Outstanding shares * stock price = Market Cap
+    -Outstanding shares - shares issued by a public company and are freely available to be bought by anyone.
+    -Restricted stock - shares that can only be traded under SEC regulations.
+    -Floating stock - shares currently available to trade.
+  -Market cap is publicly available information. Companies are ranked in size - large cap, mid cap, small cap.
+   Large cap stocks are referred to as blue chip companies.
+
+Restricted Stock units - award employee stocks as compensation with restrictions on sells and ownership (vesting period).
+  -Performance stock unit - normally awarded to C-Suite employees as a performance bonus, usually with a vesting period.
+  -Deferred stock unit - Allows the employee to exchange salary for phantom stock units, a delayed purchasing option that is pre-tax.
+
+Stock Buybacks:-
+  -Using Cashflow to purchase back stocks and restrict the current float available on the exchanges.
+  -Might believe their shares are too cheap, or to improve financial ratios.
