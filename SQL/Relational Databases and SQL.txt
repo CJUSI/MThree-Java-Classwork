@@ -47,11 +47,11 @@ create or replace table trainee (
 show tables;
 
 #Insert rows into the table
-insert into trainee (name, location, postcode, DOB, YEARS, speciality, isNew) values ('Callum', 'Streatham', 'SW171DD', '1994-06-06', 5,  'C', 1);
-insert into trainee (name, location, postcode, DOB, YEARS, speciality, isNew) values ('Rory', 'Streatham', 'SE161DB', '1999-05-27', 0, 'TA', 1);
-insert into trainee (name, location, postcode, DOB, YEARS, speciality, isNew) values ('Evelyn', 'Oval','NW17', '1995-10-01', 3, 'Dr of Psych', 0);
-insert into trainee (name, location, postcode, DOB, YEARS, speciality, isNew) values ('Steve', 'Bognor Regis', default, '1955-01-28', 20, 'Linux', 0); #Can insert in any order
-insert into trainee (name, location, postcode, DOB, YEARS, speciality, isNew) values ('Brigid', 'Furzedown', 'SW166RT', '1964-02-05', 20, 'SEN', 0);
+insert into trainee (name, location, postcode, DOB, YEARS, speciality, isNew) values ('Callum Smith', 'Streatham', 'SW171DD', '1994-06-06', 5,  'C', 1);
+insert into trainee (name, location, postcode, DOB, YEARS, speciality, isNew) values ('Rory Smith', 'Streatham', 'SE161DB', '1999-05-27', 0, 'TA', 1);
+insert into trainee (name, location, postcode, DOB, YEARS, speciality, isNew) values ('Evelyn Smith', 'Oval','NW17', '1995-10-01', 3, 'Dr of Psych', 0);
+insert into trainee (name, location, postcode, DOB, YEARS, speciality, isNew) values ('Steve Smith', 'Bognor Regis', default, '1955-01-28', 20, 'Linux', 0); #Can insert in any order
+insert into trainee (name, location, postcode, DOB, YEARS, speciality, isNew) values ('Brigid Smith', 'Furzedown', 'SW166RT', '1964-02-05', 20, 'SEN', 0);
 
 #Select *(all) rows from db
 select * from trainee; #where speciality in ('Linux', 'C');
@@ -81,3 +81,20 @@ select * from trainee where postcode like '_______';
 select * from trainee where postcode like '[SW]%';
 select * from trainee where postcode like '[^SW]%';
 -------------------------------------------------------------------------------------------------------------------
+
+--ACID COMPLIANCE--
+  -Atomicity - An atomic transaction is an indivisible and irreducible series of database operations such that either all
+   occur or nothing occurs. Prevents partial updates of a database where partial computation can cause more issues.
+  -Consistency - Ensure database consistency.  Changes will be rolled back if there are any errors or system failures during transactions.
+  -Isolation - Every transaction is individual and one cant access others until it is fully completed.
+  -Durability - Once the transaction has completed the changes will become permanent. This property safeguards the committed data.
+
+--KEYS--
+  -Primary Key - Specific choice of attributes that specify a unique tuple in a relation. Which attributes can identify a record?
+  -Foreign Key - Set of attributes that refers to a primary key from another table. Foreign Keys link tables.
+
+--RELATIONSHIPS--
+    -1:1 - Employee : Address
+    -1:N - Customer : Orders
+    -N:N - Student : Class
+      -Requires a join table:-

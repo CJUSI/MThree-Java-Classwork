@@ -1,6 +1,6 @@
 --Equity Trading--
 
-Equity Trading:-
+--Equity Trading:-
   -Company Equity and Shareholders.
   -Private Company --> IPO --> Public Company
     Private Company:
@@ -16,11 +16,11 @@ Equity Trading:-
       -Company shares traded publicly.
       -Company equity divided between new shareholders.
 
-Alternative Exchanges:-
+--Alternative Exchanges:-
   -AIM
   -OTCBB
 
-Equity Securities - Market Cap:-
+--Equity Securities - Market Cap:-
   -Outstanding shares * stock price = Market Cap
     -Outstanding shares - shares issued by a public company and are freely available to be bought by anyone.
     -Restricted stock - shares that can only be traded under SEC regulations.
@@ -29,15 +29,15 @@ Equity Securities - Market Cap:-
     -Large cap stocks are referred to as blue chip companies.
     -Potential growth is higher with smaller cap and medium cap but the risk exposure is higher.
 
-Restricted Stock units - award employee stocks as compensation with restrictions on sells and ownership (vesting period).
+--Restricted Stock units - award employee stocks as compensation with restrictions on sells and ownership (vesting period).
   -Performance stock unit - normally awarded to C-Suite employees as a performance bonus, usually with a vesting period.
   -Deferred stock unit - Allows the employee to exchange salary for phantom stock units, a delayed purchasing option that is pre-tax.
 
-Stock Buybacks:-
+--Stock Buybacks:-
   -Using Cashflow to purchase back stocks and restrict the current float available on the exchanges.
   -Might believe their shares are too cheap, or to improve financial ratios.
 
-Dividends:-
+--Dividends:-
   -Dividends are a distribution of a portion of a company's earnings - decided by the board of directors (can be cash or stock). These are
    typically paid twice a year (4 in US).
   -Investors invest in companies for two main reasons:
@@ -49,7 +49,7 @@ Dividends:-
     -If this company has $10,000 in the bank, then in theory, it could be bought for $2000 and liquidated, giving an $8000 profit to the new owner.
      The company would prefer the issue dividends to promote the stock and reduce the amount of cash on the balance sheet vs their MCap.
 
-Share Classes:-
+--Share Classes:-
   -Class A - Classification of common shares.  They have lesser benefits in terms of dividends, asset sales and voting rights compared to other classes.
   -Class B - Classification of common shares.  They have lesser voting rights than class A but can sometimes be converted after a certain duration of holding.
   -Class C - Mutual Fund share - characterised by the fees of about 1% for organisational expenses around managing the fund. Not convertible to any other type of share.
@@ -57,3 +57,48 @@ Share Classes:-
   -Class I - Institutional Shares - Available for institutional investors and shareholders with a minimum investment of $25,000. Very low cost structure.
   -Class R - Work and Pension Funds - Available through employer retirement accounts only available through retirement plans.
   -Class Z - Employees of the Fund - Given to employees of the Managing Fund, usually through purchase or a portion of their compensation.
+
+--Share Prices:-
+  -Snapchat - IPO: $17 -> $62.63
+  -Facebook - IPO: $38 -> $332.46
+  -Twitter - IPO: $44.90 -> $60.30
+
+--Stock Exchanges
+  -Stock exchanges are electronic marketplaces for trading of shares.
+  -Stocks are listed on one domestic exchange only (but can be listed at other venues).
+  -Companies pay a listing fee plus annual fees.
+  -NYSE - New York Stock Exchange - Physical exchange and auction market.
+  -Nasdaq - Totally electronic, greater daily traded share volume.
+
+--Fundamentals of trading:-
+  -Buy low, sell high...
+  -The price of stocks follow a consistent pattern around business cycle and sentiment.
+  -Times of maximum fear are good times to buy; times of maximum business greed, indicates the time to sell.
+    -Bull Market - Condition of the market in which prices are rising or expected to rise - optimism and growth.
+    -Bear Market - Condition of the market in which prices are falling or expected to fall - times typically shrouded in pessimism.
+
+--Why invest:-
+  -Why would you invest in equity?
+    -Regular income.
+    -Capital Growth.
+    -Long term investment.
+    -High liquidity.
+    -Transparent Marketplace.
+    -Ownership voting rights.
+
+--Market Participants:-
+  -There are multiple people who participate in equity markets.
+    -Speculators - Day traders, Hedge Funds, HFTs.
+    -Investors - Long term capital growth and dividends.
+    -Market Makers - Provide Liquidity
+
+--Market Index:-
+  -A market index is a hypothetical portfolio of investment holdings which represents a segment of the financial market.
+    -Aggregated price of a number of securities.
+    -Trend Indicator.
+    -Performance benchmarks.
+    -Allows you to invest in a market as a whole.
+  -ETF Funds - A collection of securities which are bundled into a single financial product and traded just like stocks.
+  -Price weighted index - member companies of the index are weighted in proportion to their stock price.
+
+  --Stock splits - When a company will split the shares into parts in order to normalize the share price.

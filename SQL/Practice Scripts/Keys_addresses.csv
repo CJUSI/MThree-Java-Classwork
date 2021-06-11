@@ -1,0 +1,16 @@
+EMPLOYEE,,,,,,
+ID (PK),firstname,lastname,address,phone,dept,salary
+1,Harry,Potter,4 Privet Drive,777,sales,1000
+2,Hermione,Granger,1 Pont Street,888,marketing,2000
+3,Ron ,Weasley,3 Portobello Road,999,compliance,1500
+4,Ginny ,Weasley,3 Portobello Road,999,technical,2500
+5,Dobby,D,1 Cave,NULL,groundskeeper,800
+,,,,,,
+,,,,,,
+ADDRESS,,,,,,
+ID,Street,,,,,
+1,,,,,,
+2,,,,,,
+3,,,,,,
+4,,,,,,
+5,,,,,,
