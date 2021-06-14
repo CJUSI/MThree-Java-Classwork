@@ -75,8 +75,7 @@ SELECT * FROM album;
 -- --result-file="C:/Users/cjusm/Documents/MThree Java Course/MThree-Java-Classwork/SQL/songalbums.sql"
 
 -- Insert artists, band and song table from the mysqldump output
-INSERT INTO `artist`
-   VALUES  
+INSERT INTO `artist` VALUES  
 		(1, 'John', 'Lennon', 1), (2, 'Paul', 'McCartney', 1),--
 		(3, 'George', 'Harrison', 1), (4, 'Ringo', 'Starr', 1),
 		(5, 'Denny', 'Zager', 0), (6, 'Rick', 'Evans', 0),
@@ -98,8 +97,7 @@ INSERT INTO `band` VALUES
 		(8, 'Led Zeppelin\r');
 
 -- insert dump from song using csv import
-INSERT INTO `song`
-  VALUES
+INSERT INTO `song` VALUES
 		(1, 'Imagine', 'https://youtu.be/DVg2EJvvlF8', 1),
 		(2, 'In the Year 2525', 'https://youtu.be/izQB2-Kmiic', 2),
 		(3, 'Across the Universe', 'https://youtu.be/Tjq9LmSO1eI', 1),
