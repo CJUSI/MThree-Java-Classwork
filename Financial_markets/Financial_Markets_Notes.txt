@@ -320,6 +320,10 @@ Open vs Closed ended Funds:-
    lists shares for trade on a stock exchange. Other names for a closed-end fund include the "closed-end investment"
    and "closed-end mutual fund."
 
+Actively vs Passively Managed Funds:-
+  -Actively Managed funds - Team will make decisions about how to invest the funds money.
+  -Passively Managed Funds - Follows a market index.
+
 Market Participants:-
   -Sellers & Buyers (investors and lenders).
   -Brokers.

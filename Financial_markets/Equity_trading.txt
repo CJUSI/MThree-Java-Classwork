@@ -97,8 +97,9 @@
     -Aggregated price of a number of securities.
     -Trend Indicator.
     -Performance benchmarks.
+    -Market Barometer.
     -Allows you to invest in a market as a whole.
   -ETF Funds - A collection of securities which are bundled into a single financial product and traded just like stocks.
   -Price weighted index - member companies of the index are weighted in proportion to their stock price.
 
-  --Stock splits - When a company will split the shares into parts in order to normalize the share price.
+--Stock Splits - When a company will split the shares into parts in order to normalize the share price.
