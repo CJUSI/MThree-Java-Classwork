@@ -77,18 +77,18 @@ SELECT * FROM album;
 
 ##Insert artists, band and song table from the mysqldump output
 INSERT INTO `artist`
-  VALUES  (1, 'John', 'Lennon', 1), (2, 'Paul', 'McCartney', 1),
-          (3, 'George', 'Harrison', 1), (4, 'Ringo', 'Starr', 1),
-          (5, 'Denny', 'Zager', 0), (6, 'Rick', 'Evans', 0),
-          (10, 'Van', 'Morrison', 1), (11, 'Judy', 'Collins', 0),
-          (12, 'Paul', 'Simon', 1), (13, 'Art', 'Garfunkel', 0),
-          (14, 'Brian', 'Wilson', 0), (15, 'Dennis', 'Wilson', 0),
-          (16, 'Carl', 'Wilson', 0), (17, 'Ricky', 'Fataar', 0),
-          (18, 'Blondie', 'Chaplin', 0), (19, 'Jimmy', 'Page', 0),
-          (20, 'Robert', 'Plant', 0), (21, 'John Paul', 'Jones', 0),
-          (22, 'John', 'Bonham', 0), (23, 'Mike ' , 'Love', 0),
-          (24, 'Al ', 'Jardine', 0), (25, 'David', 'Marks', 0),
-          (26, 'Bruce ', 'Johnston', 0);
+  VALUES  (1, 'John', 'Lennon'), (2, 'Paul', 'McCartney'),
+          (3, 'George', 'Harrison'), (4, 'Ringo', 'Starr'),
+          (5, 'Denny', 'Zager'), (6, 'Rick', 'Evans'),
+          (10, 'Van', 'Morrison'), (11, 'Judy', 'Collins'),
+          (12, 'Paul', 'Simon'), (13, 'Art', 'Garfunkel'),
+          (14, 'Brian', 'Wilson'), (15, 'Dennis', 'Wilson'),
+          (16, 'Carl', 'Wilson'), (17, 'Ricky', 'Fataar'),
+          (18, 'Blondie', 'Chaplin'), (19, 'Jimmy', 'Page'),
+          (20, 'Robert', 'Plant'), (21, 'John Paul', 'Jones'),
+          (22, 'John', 'Bonham'), (23, 'Mike ' , 'Love'),
+          (24, 'Al ', 'Jardine'), (25, 'David', 'Marks'),
+          (26, 'Bruce ', 'Johnston');
 
 ##Insert mysql dump from band using csv import
 INSERT INTO `band`
@@ -123,3 +123,12 @@ INSERT INTO `bandartist`
 INSERT INTO `songalbum`
   VALUES (1,1), (2,2), (3,3), (4,4), (5,5), (6,6),
          (7,7), (9,9), (10,7), (11,7), (12,7);
+         
+##Display the tables and data.
+SHOW TABLES;
+DESCRIBE album; 
+DESCRIBE artist;
+DESCRIBE band;
+DESCRIBE song;
+DESCRIBE songAlbum;
+DESCRIBE bandArtist;
