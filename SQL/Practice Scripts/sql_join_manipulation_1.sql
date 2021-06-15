@@ -76,5 +76,6 @@ SELECT s.NAME, s.dob, s.email, c.name, c.number, c.instructor
 		RIGHT JOIN student s ON s.id = sc.studentid
 		RIGHT JOIN course c ON c.id = sc.courseid;
 	
+
 		
 

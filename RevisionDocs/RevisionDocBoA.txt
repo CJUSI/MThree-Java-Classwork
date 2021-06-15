@@ -1,0 +1,212 @@
+--Bank of America Interview
+
+names:
+    - Robert Cincotta - Heads up team, 
+    - Albern Demorage - heads up fx options.
+    - Elton Dimir Xhiu - 1st meeting
+    - Hai Wen Elinna Chen - 2nd Meeting
+
+
+Questions to ask interviewer:-
+    - What is the primary technology you use on a day to day basis.
+    - What will I need to learn to succeed in this environment.
+    - What are the long term goals of the company.
+    - What are some of the projects your team are working on at the moment.
+    - What sort of structure is available for me to develop my skills.
+    - What can I do to ensure I am successful in this role.
+    - Is the focus area comprised of one big team or is it compartmentalised?
+    - What does progression look like within the team or company?
+    - Is there a large focus on training for junior developers?
+                            ---Data structures---
+
+  - Array - Structure of a fixed size which hold items of the same data type. Can have array of array and they are indexed so random access is possible.
+           Collection of memory locations that holds a single piece of data.
+
+
+  - Linked List - Sequential data structure that consists of a sequence of items in a linear order where each node points to the next element in the list.
+                  Each node contains a data field and a pointer to the next element in the list and can only be accessed sequentially.
+                    - Singly Linked - Traversal of items can only be done in the forward direction. Head -> Tail.
+                    - Doubly Linked List - Traversal of items can be done in both directions, nodes include additional pointer that can point to the previous node as well as the next node.
+                    - Circularly Linked List - Linked list where the previous pointer of the head points to the tail and the next pointer of the tail points to the head.
+
+  - Stack - A data structure commonly used in programming and memory organisation using the principle of LIFO (Last In First Out). Uses two major operations, Push (store data on the top of the stack)
+            and Pop (Pop data element off the top of the stack).
+
+  - Queue - A simple data structure based on FIFO (First In First Out).  The element placed into the queue first can be accessed first.
+
+  - Hash Table - Data structure that stores values with keys associated with each of them. Uses direct addressing to achieve a 1-1 mapping of keys and data. Supports lookup efficiently if we know the key.
+                 Uses hash function to avoid problems with large numbers of key-value pairs. Hash functions allow you to calculate the index of the table where the element is stored.
+
+  - Tree - Hierarchical structure where data is organised hierarchically and linked together. Not linear like linked list. Each node rather than have prev and next at most will have the key,
+           pointer to left child, pointer to the right child and a pointer to the parent node.
+
+  - Heap - A heap is a tree based data structure where the root key is compared with its children and arranged accordingly. If x has child node y then key(x) > key(y). Complete binary Tree.
+           Max Heap - The root node key must be greatest among the keys present in all children, same property must be recursively true for all sub-trees in the binary tree.
+           Min Heap - The root node key must be minimum among the keys present in all children, same property must be recursively true for all sub-trees in the binary tree.
+
+  - Graph - A graph consists of a finite set of vertices or node and a set of edges connecting these vertices. The order of the graph is the number of vertices in the graph and the size is the
+            number of edges. Two nodes are adjacent if they are connected to each other by the same edge.  Used to represent things like social media networks and webpages/links.
+
+  - Trie - Tree data structure that is useful for solving string problems and locating keys from a specific set, keys are strings with links between nodes not defined by the entire key but by a character.
+           All children of a node share a common prefix of a string associated with the parent node, root node is associated with empty string.
+
+
+
+
+                        ---OO Programming Concepts---
+
+  --Basic Terminology:-
+    - Class - This is a model describing the capabilities of an object.
+            - Public - class members can be accessed from anywhere.
+            - Private - class members can only be accessed by the defining class.
+            - Protected - the class members can only be accessed by parent and inherited classes.
+    - Object - The instance of a class/working entity of the class.
+    - Method - Modify a class state that would apply across all instances of the class.
+    - Instance - A single example of an object that shares the capabilities with its class.
+    - Class Variable - A variable that is shared by all instances of a class. Variables are defined within the class but outside of the class' methods.
+    - Data member - A class variable or instance variable that holds data associated with a class and its objects.
+    - Function Overloading - Assignment of more than one behaviour to a particular function.
+    - Operator Overloading - Assignment of more than one function to a particular operator (i.e '+' being used to concat strings and add numbers).
+
+  --Concepts:-
+    - Encapsulation - Encapsulation is accomplished when each object maintains a private state, inside a class. Other objects cannot access this state directly but can invoke a list of public functions
+                      to alter the state that is managed by the object itself.  To communicate with the object you must use the methods provided. I.e a private method bark can not be invoked but public
+                      methods such as sleep(), play() and eat() are available to other classes. Each of these functions can modify the internal state of the dog and may invoke bark(), when this happens
+                      the private and public methods are 'Bonded'.
+    - Abstraction - Abstraction is an extension of Encapsulation.  It is the process of selecting data from a larger pool to show only the relevant details to the object. The process of curating the
+                    the information for the requirements.  This curation can be used with other applications with minimal modification.
+
+    - Inheritance - Inheritance is the ability of one object to acquire some/all of the properties of another object.  e.g. a child inherits genetic traits from their parents. Advantage of reusability.
+          Types of Inheritance:-
+            - Single - Derived class inherits properties and behaviour from a single class.
+            - Multiple - Derived class/object inherits properties and behaviour from multiple parent classes or objects.
+            - Multi-level - Parent class can inherit properties and behaviour from a derived class, making the derived class the base class for the new class.
+            - Hierarchical - Inheritcance where more than one class is inherited from a single parent or base class. Common features in a parent class become common features in base class.
+
+    - Polymorphism - The ability to use a class exactly like its parent so there is no confusion with mixing types.  Each sub-class maintains its own functions and methods. e.g. a superclass called mammal
+                     with a method called mammalSound(). the subclasses of 'dogs', 'whales' etc would have their own instance/iteration of mammalSound().
+
+
+                      ---Core Comp Sci Concepts---
+
+Concept 1 - Algorithms and Data Structures:-
+    1.1 - Big O notation - refers to the worst case scenario for scalability and efficiency of algorithms.  Way of describing how fast an algorithm will run based upon the runtime will change on different
+          inputs.
+    1.2 - Sorting Algorithms - A sorting algorithm is a programming structure used to sort and order elements inside an array or data structure. #
+          Types of sorting:
+            - Comparison based sorting - A comparator is defined to compare elements or items of a data sample. the comparator defines the order of the elements:
+                - Bubble Sort - Reapeatedly step through the list comparing adjacent elements and swapping them if they are not in the correct order. Pass through the list/array repeatdly until all elements
+                  are sorted.
+                - Merge Sort - Divide and conquer algorithm where the list is repeatedly divided into two until all elements are seperated.  Pairs of elements are then compared, placed into order and then combined.
+                  Process is repeated until the entire list is sorted.
+            - Counting Based Sorting - No comparison involved between elements in these types of sorting algorithms but rather work on calculated assumptions during execution.
+                - Counting Sort - Sorting technique based on keys in a specific range. Counts the number of objects with distinct key values (kind of hashing), then doing arithmetic to calculate the position
+                  of each object in the output sequence.
+                - Radix Sort - Used for complexities of O(n^2) - Digit by digit sort starting from the LSD so MSD.  Uses counting sort as a subroutine to the main sort.
+            - In-Place vs Not-In-Place Sorting:-
+                - In-Place Sorting - In-Place sorting techniques in the data structure to modify the array elements within the original array.
+                    - Selection Sort - Repeatedly finds the minimum element from an unsorted array and supplants it into a new array in order.
+                - Not-In-Place Sorting - Uses auxiliary data structure to sort the original array.
+                    - Quick Sort - Divide and conquer algorithm that picks an element as a pivor and partitions the given array around the pivot.  It puts all elements that are < pivot below the pivot and all
+                      elements > pivot above the pivot in the array.
+                      - Pick first element as pivot.
+                      - Pick last element as pivot.
+                      - Pick random element as pivot.
+                      - pick median as pivot.
+    1.3 - Recursion - method of solving a problem where the final solution depends on solutions of smaller instances of the same problem.  Occurs when a function calls itself within its own code.
+
+Concept 2 - Computer Architecture:-
+        - Basics - Computers are built by adding complexity on top of complexity and building a complex system from a set of simple parts.
+            - Low level - Assembly, C - used for direct hardware manipulation.
+            - Mid Level - Used by system and hardware programmers for performance critical software.
+            - High Level - Used for bigger picture programming such as apps and web development.
+            - Uses abstraction to move from Low to high level programming - reduce the number of attributes for data to focus attention on details of grater importance.
+        - Architecture:-
+            - Processor - Digital Circuit that performs operations on external data sources from memory or another data stream. Usually in the form of a microprocessor and often referred to as the CPU.
+                        - ALU - Arithmetic Logic Unit that performs operations on data.
+                        - General Registers - Small amount of fast storage used to perform operations on data, often have hardware functions such as PC(Program Counter) and SP(Stack Pointer).
+                        - Instruction Decoder - Reads the next instruction in from memory and sends the component pieces of that instruction to the necessary destinations. Like a traffic controller.
+                        - Bus Interface - Defines how physical means by which the CPU and computer will communicate with itself:
+                              - Address bus - Rail that sends details of memory addressing and storage.
+                              - Data Bus - Rail by which data is moved around the computer.
+                              - Control Bus - Rail where the instructions are sent.
+            - Memory - Where the computer remembers and stores data. Consists of volatile (disappears when power off RAM) or non-volatile (remains when power off ROM).
+                        - Memory Array - The physical component that stores the data using a collection of memory cells made from electrical components like CMOS transistors.
+                        - Address Decoder - Multiplexer that Asserts a certain output of device selection signals based upon the input addresses.
+            - DMA Controller - Direct Memory Access allows hardware subsystems to access main system memory independently of the CPU.  Usually occupied with R/W functions.
+            - Clock - A component that generates consistent pulses to allow the computer to synchronize its operations and computations.  Clock speed refers to the processors speed.
+            - Interrupt Controller - Integrated circuit that helps a MCU handle interrupt requests coming from multiple sources. Helps to prioritize IRQ (Interrupt requests) according to a priority list to
+                                     help the CPU switch execution to the priority interrupt.
+            - Peripheral - Devices that are not part of the core architecture of a CPU, includes inputs (mouse, keyboard, webcam, controller), outputs (screen, printer, speakers) and storage (external hard drive).
+
+Concept 3 - Concurrency - Concurrency is a property of programs and systems that allow tasks to run in parallel with eachother.
+        3.1 - Parallelism - Ability of a system to run two or more programs at the same time.
+        3.2 - Race condition - A condition in which concurrent processes can access the same data and update it without any regard for the other process.  Can cause integrity issues with the data.
+        3.3 - Mutex - A mutex is a lock placed on a thread of programming that stops the thread from accessing the data if another thread is also currently manipulating or using it.
+        3.4 - Semaphore - A semaphore is a mutex with inbuilt priorities on the different threads accessing the data.  Some processes/threads will have higher priority than others.
+            - Binary Semaphore - Binary flags that can be set to make threads wait when their counter value is 0. Lock with counter functionality.  Protects the access to a single shared resource.
+            - Counting Semaphore - Uses a count that helps tasks to be acquired or released multiple times. if initial Count = 0, the counting semaphore should be created in the unavailable state.
+        3.5 - Deadlock - Deadlock occurs when the access to the process is locked simultaneously and the processes cant be completed.
+
+Concept 4 - Software Dev Methodologies:-
+        4.1 - Waterfall development - Figure out all requirements and only move onto the next phase when the previous one is completed:
+            - Requirements - Draw up product requirements.
+            - Design - Software Architecture.
+            - Implementation - Build software.
+            - Verification - Verify that your system is working as intended.
+            - Maintenance - Maintain the system so it is always operational.
+       4.2 - Agile Development - Figure out some of the requirements initially, then continuously improve, evolve collaborate and adapt as the development goes on.
+              - Scrum - Lightweight framework that helps teams and organisations generate value through adaptive solutions for complex problems.  Breaks work into goals that can be completed within
+                        timeboxed iterations called sprints no longer than 1 month. Progress is assessed through daily meetings lasting around 15 mins called scrums.
+              - Extreme Programming - Improve software quality and responsiveness to changing customer reqs.  Utilises frequent releases in short development cycles to improve productivity and introduce
+                                      checkpoints at which customer reqs can be evaluated and changed.
+              - Kanban - Lean methodology centered around managing work by balancing demands with available capacity and improving the handling of system-level bottlenecks. Work processes are usually visualised
+                         to assist with the decision making around production.
+
+
+                                ---Python---
+1. Know basic Control flow:-
+    -For, while Loops.
+      for i in range(x,y)
+      while(condition)
+      do...while(condition) - check condition after process
+    -If, elif, else: Statements
+
+2. Discuss how you have used python before:-
+    - Explain basic Project - cryptocurrency markets.
+    - Some modules - Data Mining and Computing
+
+3. Operators:-
+    - Modulus % - divide but return remainder
+    - Floor div // - divide round down
+    - exponent ** = power
+
+
+4. Tuples vs Lists vs Set:-
+    -Tuple Immutable, fast
+    -List mutable, slower than tuple
+    -Set has no repeated values.
+
+5. List comprehension
+    - for x in list: do y
+    - for x in list:
+        if a in x: do y
+    - newlist = [num*num for num in list]
+
+6. String manipulation:-
+    - variable.replace(string1, string2)
+    - " ".join(variable)
+    - variable.find(string) - returns index of string occurrence
+    - variable.split("split char") - returns list
+    - list(variable) = list of chars
+
+7. Time manipulation:-
+    - import time
+    - time = time.localtime(time.time())
+
+7. Generators - declare a function that behaves like an iterator and be used in a for loop.
+
+
+
+
+ 
