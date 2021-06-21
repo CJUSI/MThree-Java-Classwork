@@ -1,0 +1,77 @@
+-- Regulation and Risk --
+
+-- Regulation and Risk:-
+  UK:
+    - Bank of England.
+    - Financial Conduct Authority (FCA)
+    - Prudential Regulation Authority (PRA)
+  Canada:
+    - Bank of Canada (BoC)
+    - The Office of the Superintendent of Financial Institutions (OSFI)
+  USA:
+    -
+...
+-- Regulator Objectives:-
+  - SEC - Securities and Equities Comission:
+    - Protect Investors.
+    - Maintain fair, orderly and efficient markets.
+    - Facilitate capital formation.
+  - FED - Federal Reserve Bank:
+    - Maximise Employment.
+    - Keep prices stable by maintaining a 2% target inflation.
+    - Moderate long-term interest rates.
+  - FCA - Financial Conduct Authority
+...
+-- Regulatory Rules:-
+   - Below details some frameworks in place by regulators that impact the day to day operations of a bank:
+    - Transaction Reporting
+    - Ring Fencing
+    - Stress testing
+    - Risk Management.
+    - Capital Requirements.
+    - IB separation.
+    - Transparency.
+    - Prop Trading
+    - Market Abuse
+    - Investor Protection
+    - OTC derivatives reform
+    - Electronic Trading
+
+-- Scale of Regulation:- We are now in an era of Maximum Regulation
+    - No regulation
+    - Individuals
+    - Voluntary Trade Associations
+    - Voluntary Standards and Voluntary Associations
+    - Compulsory Standards and Voluntary Associations
+    - Compulsory Association by Law
+    - Government as Overseer
+    - Government as Regulator
+    - Maximum Regulation
+
+-- Layers of Regulation:-
+  -
+
+
+-- Risk Metrics - Value at risk:-
+  - VaR - Value at risk is used to measure market exposure assessing could be lost in the worst case.
+  - Assessing the VaR considers the following:
+    - Time period holding the asset.
+    - Confidence level in the asset.
+    - Loss Amount.
+      - "We expect that our worst daily loss should not exceed 5% on 99% of occasions if we invest £5000 in this asset."
+    - Risk assessors - Identify Areas of risk and come up with risk mitigation strategies.
+
+-- Credit Risk:-
+  - The risk of a debt issuer defaulting on a credit obligation
+
+-- Hedging:-
+  - You will likely hear the term Hedging mentioned on trading floors.  It is typically a short-term strategy to protect longer
+    term positions by mitigating the effect of market volatility.
+      - Pairing - Find a similar security and use it to offset your position.
+      - Short against the box - Short sell the exact same stock and then close positions when needed. 
+      - Futures - Buying a security for an agreed price that you will receive on a future date
+      - ETFs - Access to lots of hedging securities in small increments.
+      - Options - The right to buy/sell a security on an agreed future date at an agreed price.
+
+-- Financial Statements:-
+    - Public companies issue annual and interim financial statements.

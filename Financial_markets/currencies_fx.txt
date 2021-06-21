@@ -1,0 +1,54 @@
+-- Currencies and FX --
+
+FX - Foreign Exchange:-
+  - Forex (FX) is the marketplace in which various national currencies are traded.  The forex market is
+    is the largest, most liquid market in the world, with trillions of dollars traded per day.
+  - 24-Hour trading available Sunday-Friday (GMT) - however there are three sessions across Asia, Europe
+    and the US.
+  - Although there is some overlap in trading sessions, the main currencies in each market are traded mainly in their
+    corresponding regional sessions; e.g. trading with US dollars will do the most volume of trading in the US session.
+  - No centralised location - it is actually an electronic network of banks, brokers, institutions and individual traders.
+  - Forwards and futures can be used to trade in the market.
+  - No real exchanges - all electronic OTC.
+
+How does FX trading work:-
+  - Currency is traded in various sized lots:-
+      - Micro lot - 1000 units of your currency.
+      - Mini Lot - 10,000 units of your base currency.
+      - Standard Lot - 100,000 units of your base currency.
+      - Base currency is the currency your account is funded in.
+  - Currency trading is done in pairs - buy one currency and sell another.
+      - Majority of volume in currency trading is confined to only 18 currency pairs.
+      - 8 Most traded currencies:-
+          - USD, CAD, EUR, GBP, CHF, NZD, AUD, JPY.
+  - The spot market is where financial instruments such as commodities, currencies and securities are traded for immediate delivery.
+  - FX spot trades settle on a T+2 basis, except for USD/CAD which settles in 1 business day (T+1).
+
+Trading Currencies - How hard is it?
+  - With equity trading, you are making a decision based on the value of one company - how to value a whole country?
+  - Market analysis to predict long-term trends is complex, although some traders will do short-term trading strictly on news releases:
+      - Non-Farm Payrolls - Measure of the number of workers excluding farm workers.
+      - Purchasing managers Index (PMI)
+      - Consumer Price Index (CPI)
+      - Retail Sales
+      - Durable Goods
+  - Even the Federal Reserve Chairman's comments on interest rates can have an influence on the market and cause volatility.
+
+
+FX Trading Venues:-
+  - FX trading is done across an electronic entwork rather than having a physical location.
+  - Examples:-
+    - xxx
+
+FX Swaps:-
+  - A contract to exchange a matching amount of two different currencies between two foreign parties.
+    - Agreement consists of swapping principle and interest payments on a loan  made in one currency for aloan of equal value in another currency.
+
+Currency Swaps:-
+  - Exchange of interest, sometimes principal, in one currency for the same in another currency. Interest payments are exchanged at fixed dates
+    through the life of the contract.
+
+Difference:-
+  - FX swaps usually short term <1year - only involves 2 transactions sell/purchase at spot and repurchase or resell at forward rate.
+  - Currency Swaps are usually used for the long term - Interest payment made are done through the currency the party received initially.
+    Exchanges a series of cash flows. - Ongoing payments of interest.

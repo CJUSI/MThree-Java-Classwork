@@ -1,0 +1,32 @@
+-- Treasury --
+
+- Treasury:-
+  - The treasury department controls and manages the banks own money.
+  - Treasury operates in a global environment of market volatility and ever-increasing regulation.
+  -
+
+Capital Management:-
+  - Treasury has responsibility for structuring the banks funds to ensure returns are maximized whilst meeting regulatory standards.
+  - Global banks will take positions in multiple currencies to efficiently fund transactions.
+
+Treasury Stakeholders:-
+  - Due to the nature of the treasury business there are many stakeholders across the bank.
+  - Internal Stakeholders:
+    - Finance - End-to cost of a transaction.
+    - Trading desk - Implication of the trading on the banks capital.
+    - Risk - Development of stress testing models.
+    - Technology - Data for auto-calculation and distribution of recharge metrics.
+  - External Stakeholders:
+    - Investors - Advertise the strength and stability of the company.
+    - Regulators - Comply with required standards.
+
+Execution Services:-
+  - Treasury manage the banks requirement to execute multiple transactions in multiple currencies.
+
+
+Interbank Lending:-
+  - Banks loan assets to each other for a specified period, usually short term, often overnight.
+  - Interest is calculated using the interbank rate.
+  - The interbank rate is driven by the availability of money in the market - more lenders = lower rates, fewer lenders = higher rates.
+  - Interbank rates include ICE LIBOR, EURIBOR, US Dollar LIBOR.
+  - Banks have credit ratings which also impact the rate paid for borrowing.
